@@ -15,10 +15,12 @@ body{
   margin: 0 auto;
 }
 
-#message{
+h1{
   color: white;
 }
 
-h1{
-  color: white;
+#stripe{
+  background: white;
+  height: 30px;
+  text-align: center;
 }
