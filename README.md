@@ -4,7 +4,7 @@ HTML/CSS/JS
 Web game where you can guess colors based on your understanding of RGB notation.
 
 At the beginning its set to hard mode with 6 colors to choose from
-![colors1](https://raw.githubusercontent.com/KubaMikolajczyk/Score-Counter-Web-App/master/jpg/colors1.jpg)
+![colors1](https://raw.githubusercontent.com/KubaMikolajczyk/Color-Guessing-Game/master/jpg/colors1.jpg)
 
 
 <br>
@@ -12,7 +12,7 @@ At the beginning its set to hard mode with 6 colors to choose from
 <br>
 
 When wrong color will be picked it disappear
-![colors1](https://raw.githubusercontent.com/KubaMikolajczyk/Score-Counter-Web-App/master/jpg/colors2.jpg)
+![colors2](https://raw.githubusercontent.com/KubaMikolajczyk/Color-Guessing-Game/master/jpg/colors2.jpg)
 
 
 <br>
@@ -20,7 +20,7 @@ When wrong color will be picked it disappear
 <br>
 
 You can choose easy mode to narrow the possibilites to 3 colors.
-![colors2](https://raw.githubusercontent.com/KubaMikolajczyk/Score-Counter-Web-App/master/jpg/colors3.jpg)
+![colors3](https://raw.githubusercontent.com/KubaMikolajczyk/Color-Guessing-Game/master/jpg/colors3.jpg)
 
 
 <br>
@@ -29,7 +29,7 @@ You can choose easy mode to narrow the possibilites to 3 colors.
 
 
 Upon winning app will change colors of all squares and heading to desired color. To play again hit play again button!
-![colors3](https://raw.githubusercontent.com/KubaMikolajczyk/Score-Counter-Web-App/master/jpg/colors4.jpg)
+![colors4](https://raw.githubusercontent.com/KubaMikolajczyk/Color-Guessing-Game/master/jpg/colors4.jpg)
 
 
 <br>
